@@ -1,6 +1,6 @@
 # Startup_Name_Generator
 
-A simple mobile app that generates a infinite list of names for startup. You can favorite names that u like and they will be shown seperately.
+A simple mobile app that generates a infinite list of names for startup. You can favorite names that you like and they will be shown seperately.
 
 ## Setup
 
